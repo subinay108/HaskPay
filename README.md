@@ -1,0 +1,1 @@
+# HaskPay - A Minimalist Payment System in Haskell
